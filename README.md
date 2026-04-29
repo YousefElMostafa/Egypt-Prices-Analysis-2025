@@ -32,10 +32,10 @@ CAPMAS - Central Agency for Public Mobilization and Statistics (Egypt)
 ---
 
 ## 👥 Team Members
-- **Youssef Mostafa AbdelFattah** (Team Leader) – Data Cleaning
+- **Youssef Mostafa AbdelFattah** (Team Leader) – Data Cleaning & GitHub
 - **Salma Hassan Fawzy** – Excel Analysis
 - **Bola Adel Sedky** – Power BI Dashboard
-- **Mohamed Alaa** – GitHub & Presentation
+- **Mohamed Alaa** – Presentation
 - **Nader George Emil** – Presentation
 
 ---
