@@ -1,5 +1,9 @@
 # Egypt Market Prices Analysis 2025
 
+## 📸 Project Preview
+
+Screenshots and dashboard visuals will be available in the screenshots folder.
+
 ## Project Overview
 This project analyzes food and service prices in Egypt using official CAPMAS data.
 
